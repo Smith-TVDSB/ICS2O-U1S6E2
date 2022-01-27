@@ -2,7 +2,12 @@
 
 ### The assignment
 Edit the file named "student.py".  
-Using f strings recreate the example from the notes, except have the user enter the item name, quantity, and price. Then have it output in the same format.  
+Using f strings make a program that takes in one number (with decimals) and outputs it in the following formats (use one line for each):
+•	2 decimal places
+•	Aligned right (give it 15 character spaces)
+•	Aligned leftt (give it 12 character spaces)
+•	Pad the number with zeros up to 5 digits.
+
 #### Input  
 Power Glove  
 1  
