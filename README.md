@@ -2,12 +2,12 @@
 
 ### The assignment
 Edit the file named "student.py".  
-Using f strings make a program that takes in one number (with decimals) and outputs it in the following formats (use one line for each):
-•	2 decimal places
-•	Aligned right (give it 15 character spaces)
-•	Aligned leftt (give it 12 character spaces)
-•	Pad the number with zeros up to 5 digits.
-
+Using f strings make a program that takes in one number (with decimals) and outputs it in the following formats (use one line for each):  
+•	2 decimal places  
+•	Aligned right (give it 15 character spaces)  
+•	Aligned leftt (give it 12 character spaces)  
+•	Pad the number with zeros up to 5 digits.  
+![](ICS2O-U1S6E2.png)  
 #### Input  
 Power Glove  
 1  
