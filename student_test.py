@@ -22,7 +22,7 @@ def test_default():
 
     assert '5.4' in output[1] and '            5.4' in output[1] and '5.4         ' in output[1] and '005.4' in output[1]
     
- def test_verify():
+def test_verify():
     input_values=['16.3']
     output=[]
 
